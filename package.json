@@ -1,0 +1,25 @@
+{
+  "name": "buildtools",
+  "version": "0.1.0",
+  "description": "Spigot BuildTools for node.js",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeguiDev/buildtools-spigot.git"
+  },
+  "keywords": [
+    "spigot",
+    "buildtools",
+    "minecraft",
+    "server"
+  ],
+  "author": "VeguiDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeguiDev/buildtools-spigot/issues"
+  },
+  "homepage": "https://github.com/VeguiDev/buildtools-spigot#readme"
+}
